@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-22T22:13:26-05:00"
+      "last_modified": "2022-04-22T22:09:42-05:00"
     },
     {
       "path": "index.html",
-      "title": "Ethan Campbell",
+      "title": "Ethan's Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-22T22:13:26-05:00"
+      "last_modified": "2022-04-22T22:09:45-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
